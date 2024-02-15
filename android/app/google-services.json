@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "955644241974",
+    "firebase_url": "https://fa-bx-f33e7-default-rtdb.firebaseio.com",
+    "project_id": "fa-bx-f33e7",
+    "storage_bucket": "fa-bx-f33e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955644241974:android:acc36d7118360e80961097",
+        "android_client_info": {
+          "package_name": "com.example.fa2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZVdHQQlk1H4CSDznL1qpayk3-_DykBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
